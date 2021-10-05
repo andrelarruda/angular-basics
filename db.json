@@ -1,0 +1,75 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "May 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Congresso da juventude",
+      "day": "Oct 23/24 at 7:30pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Levar currículo Ruane",
+      "day": "Oct 4th at 2pm",
+      "reminder": true,
+      "id": 5
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "André Arruda",
+      "birthdate": "27/11/1995",
+      "vehicles": [
+        {
+          "brand": "Yamaha",
+          "model": "Factor 150",
+          "year": "2021"
+        },
+        {
+          "brand": "Toyota",
+          "model": "Corolla XEI 2.0",
+          "year": "2010"
+        },
+        {
+          "brand": "BMW",
+          "model": "F800 GS",
+          "year": "2013"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ruane Almeida",
+      "birthdate": "06/07/1999",
+      "vehicles": [
+        {
+          "brand": "Honda",
+          "model": "Fit EX",
+          "year": "2015"
+        },
+        {
+          "brand": "Honda",
+          "model": "PCX",
+          "year": "2021"
+        }
+      ]
+    }
+  ]
+}
